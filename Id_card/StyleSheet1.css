@@ -1,0 +1,79 @@
+﻿body{
+
+}
+.img{
+    width:30%;
+    display:block;
+    position:relative;
+              
+}
+#img {
+    width:100%;
+    display:block;
+    position:relative;
+              
+}
+.colm {
+    width: 0%;
+    display:block;
+    position:relative; 
+}
+       
+.fitcover {
+    width:100%;
+}
+.bt1
+{
+    width:70%;
+    position:absolute;
+    top:5em;
+    left:30em;
+}
+.bt2
+{
+    width:70%;
+    position:absolute;
+    top:22.4em;
+    left:30.4em;
+}
+.bt3
+{
+    background-color:#66a3ff;         
+    height:50px;
+    width:90px;
+         
+}
+.toolbar{
+
+    background-color:#cccccc;
+    padding:1px;
+}
+.property_bar{
+    background-color:#cccccc;
+    padding:1px;
+}
+.tabcontent {
+    display:none;
+    padding: 6px 12px;
+    border-top: none;
+}
+         
+#makeitmove {
+    width:300px;
+    border: 1px solid orange;
+    cursor: move;
+    display:none;
+}
+container-table{
+    display:table;
+}
+.divContainer, .divResize { 
+    border:dashed 1px #CCC; 
+    width:120px; 
+    height:120px; 
+    padding:5px; 
+    margin:5px; 
+    font:13px Arial; 
+    cursor:move; 
+    float:left;
+} 
